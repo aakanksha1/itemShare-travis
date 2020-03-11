@@ -5,8 +5,8 @@ import "../styles/Footer.scss";
 export default function Banner() {
 
   return (
-    <BottomNavigation className="footer">
-      <p>&copy;&nbsp;itemShare. All rights reserved.</p>
-    </BottomNavigation>
+    <footer className="footer">
+      <p>&copy;&nbsp;Rinse & Repeat. All rights reserved.</p>
+    </footer>
   );
 }
