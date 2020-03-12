@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { UserContext } from "../contexts/UserContext";
 import logo_item_share from "..//logo_item_share.png";
-import { Button, Toolbar, AppBar, Grid } from "@material-ui/core";
+import {  Toolbar, AppBar, Grid } from "@material-ui/core";
 import { Link, useLocation } from "react-router-dom";
 import firebase from "firebase/app";
 import "firebase/auth";
